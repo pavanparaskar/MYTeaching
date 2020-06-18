@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         btnCustomList = findViewById(R.id.cListview);
         imageView = findViewById(R.id.image);
         Log.d("hello","hello");
+        Log.d("hello","hello");
 
 
         btnSharePref = findViewById(R.id.btnSharedPref);
