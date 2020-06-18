@@ -17,6 +17,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.telephony.TelephonyManager;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
@@ -47,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btnCustomList = findViewById(R.id.cListview);
         imageView = findViewById(R.id.image);
+        Log.d("hello","hello");
 
 
         btnSharePref = findViewById(R.id.btnSharedPref);
