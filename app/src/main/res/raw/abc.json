@@ -1,0 +1,50 @@
+{
+  "Status": "Success",
+  "Code": 200,
+  "Data": {
+    "Committees": [
+      {
+        "ClientId": 0,
+        "Id": 23,
+        "Name": "Pavan Paraskar",
+        "Post": "Android developer",
+        "MobileNo": "09665738332",
+        "EmailId": "paraskar.pavan@gmail.com",
+        "PhotoUrl": "http:\/\/demo4.swarajya.co.in\\api\\Files\/Committee\/Images\/67199340_2370418536383248_3706186984058781696_o.jpg",
+        "IsActive": true,
+        "CreatedBy": 0,
+        "CreatedDate": "13-04-2020",
+        "UpdatedBy": 0,
+        "UpdatedDate": null
+      },
+      {
+        "ClientId": 0,
+        "Id": 24,
+        "Name": "Ravindra navre",
+        "Post": "Retire Offic",
+        "MobileNo": "0986 944 4123",
+        "EmailId": "paraskar.pavan@gmail.com",
+        "PhotoUrl": "http:\/\/demo4.swarajya.co.in\\api\\Files\/Committee\/Documents\/photo.jpeg",
+        "IsActive": true,
+        "CreatedBy": 0,
+        "CreatedDate": "13-04-2020",
+        "UpdatedBy": 0,
+        "UpdatedDate": null
+      },
+      {
+        "ClientId": 0,
+        "Id": 25,
+        "Name": "Pavan Paraskar",
+        "Post": "sdsdfsdf",
+        "MobileNo": "09665738332",
+        "EmailId": "paraskar.pavan@gmail.com",
+        "PhotoUrl": "http:\/\/demo4.swarajya.co.in\\api\\Files\/Committee\/Images\/app_link.png",
+        "IsActive": true,
+        "CreatedBy": 0,
+        "CreatedDate": "13-04-2020",
+        "UpdatedBy": 0,
+        "UpdatedDate": null
+      }
+    ]
+  }
+}
