@@ -52,6 +52,10 @@ public class MainActivity extends AppCompatActivity {
         Log.d("hello","hello");
 
 
+        Log.d("hello","hello pavan");
+        Log.d("hello","hello pavan");
+
+
         btnSharePref = findViewById(R.id.btnSharedPref);
         btnSharePref.setOnClickListener(new View.OnClickListener() {
             @Override
